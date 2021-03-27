@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactauthentication/static/css/main.d069511e.chunk.css",
-    "main.js": "/reactauthentication/static/js/main.665dfe90.chunk.js",
-    "main.js.map": "/reactauthentication/static/js/main.665dfe90.chunk.js.map",
+    "main.js": "/reactauthentication/static/js/main.36bf3f38.chunk.js",
+    "main.js.map": "/reactauthentication/static/js/main.36bf3f38.chunk.js.map",
     "runtime-main.js": "/reactauthentication/static/js/runtime-main.0af13849.js",
     "runtime-main.js.map": "/reactauthentication/static/js/runtime-main.0af13849.js.map",
     "static/js/2.02258cc9.chunk.js": "/reactauthentication/static/js/2.02258cc9.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0af13849.js",
     "static/js/2.02258cc9.chunk.js",
     "static/css/main.d069511e.chunk.css",
-    "static/js/main.665dfe90.chunk.js"
+    "static/js/main.36bf3f38.chunk.js"
   ]
 }
