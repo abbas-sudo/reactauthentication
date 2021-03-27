@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactauthentication/static/css/main.d069511e.chunk.css",
+    "main.js": "/reactauthentication/static/js/main.665dfe90.chunk.js",
+    "main.js.map": "/reactauthentication/static/js/main.665dfe90.chunk.js.map",
+    "runtime-main.js": "/reactauthentication/static/js/runtime-main.0af13849.js",
+    "runtime-main.js.map": "/reactauthentication/static/js/runtime-main.0af13849.js.map",
+    "static/js/2.02258cc9.chunk.js": "/reactauthentication/static/js/2.02258cc9.chunk.js",
+    "static/js/2.02258cc9.chunk.js.map": "/reactauthentication/static/js/2.02258cc9.chunk.js.map",
+    "index.html": "/reactauthentication/index.html",
+    "static/css/main.d069511e.chunk.css.map": "/reactauthentication/static/css/main.d069511e.chunk.css.map",
+    "static/js/2.02258cc9.chunk.js.LICENSE.txt": "/reactauthentication/static/js/2.02258cc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0af13849.js",
+    "static/js/2.02258cc9.chunk.js",
+    "static/css/main.d069511e.chunk.css",
+    "static/js/main.665dfe90.chunk.js"
+  ]
+}
